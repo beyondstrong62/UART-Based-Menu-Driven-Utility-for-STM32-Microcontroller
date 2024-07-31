@@ -1,0 +1,7 @@
+../Inc/core_cm4.h:1725:22:__NVIC_EnableIRQ	2
+../Src/adc.c:21:6:adc_init	1
+../Src/adc.c:36:6:adc_int_init	1
+../Src/adc.c:45:6:adc_start_conversion	1
+../Src/adc.c:51:10:adc_read	2
+../Src/adc.c:60:6:ADC_IRQHandler	2
+../Src/adc.c:79:5:__io_putchar	1

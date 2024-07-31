@@ -1,0 +1,5 @@
+../Inc/core_cm4.h:1725:22:__NVIC_EnableIRQ	2
+../Src/interrupt.c:12:6:Timer2_init	1
+../Src/interrupt.c:36:6:TIM2_IRQHandler	2
+../Src/interrupt.c:49:6:EXTI15_10_init	1
+../Src/interrupt.c:76:6:EXTI15_10_IRQHandler	2

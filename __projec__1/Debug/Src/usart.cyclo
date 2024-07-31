@@ -1,0 +1,4 @@
+../Src/usart.c:12:6:UART2_SendChar	2
+../Src/usart.c:17:6:UART2_SendString	2
+../Src/usart.c:24:6:Usart2_config	1
+../Src/usart.c:46:9:receiverdata	2
